@@ -16,7 +16,7 @@ Ingeniería en TI · UTSJR · San Juan del Río, Querétaro
 
 ---
 
-### `< sobre mí />`
+### `< Sobre mí />`
 
 Estudiante de Ingeniería en Tecnologías de la Información con enfoque en desarrollo web
 e inteligencia artificial. Me interesa construir soluciones funcionales con buena
@@ -24,7 +24,7 @@ experiencia de usuario, documentadas y pensadas para escalar.
 
 ---
 
-### `< tecnologías />`
+### `< Tecnologías />`
 
 ![Python](https://img.shields.io/badge/Python-D8D8E8?style=flat-square&logo=python&logoColor=5C5F7A)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D8D8E8?style=flat-square&logo=javascript&logoColor=5C5F7A)
@@ -36,14 +36,14 @@ experiencia de usuario, documentadas y pensadas para escalar.
 
 ---
 
-### `< proyectos />`
+### `< Proyectos />`
 
 - **[LobiFind](https://github.com/rakerito/GestorLenoJS)** — Plataforma de asesorías universitarias en pares. En evaluación para implementación institucional en la UTSJR.
 - **[ChatBot-LobiFind](https://github.com/rakerito/ChatBot-LobiFind)** — Asistente virtual con IA (OpenAI) para responder preguntas frecuentes sobre LobiFind.
 
 ---
 
-### `< estadísticas />`
+### `< Estadísticas />`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakerito&show_icons=true&hide_border=true&bg_color=E8E8F0&title_color=5C5F7A&text_color=5C5F7A&icon_color=9B9EC4" height="150"/>
