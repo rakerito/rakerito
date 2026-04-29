@@ -58,5 +58,5 @@ experiencia de usuario, documentadas y pensadas para escalar.
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakerito&color=9B9EC4&style=flat-square&label=visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=rakerito&color=9B9EC4&style=flat-square&label=🐼"/>
 </div>
