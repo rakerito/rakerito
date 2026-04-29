@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hola, soy Raquel 👋🐼
 
-<!--
-**rakerito/rakerito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Tecnologías de la Información y TSU en Desarrollo
+de Software Multiplataforma en la UTSJR. Me apasiona la inteligencia artificial,
+el desarrollo web y crear soluciones que sean fáciles de usar para cualquier persona.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [LobiFind](https://github.com/rakerito/GestorLenoJS) | Gestor de asesorías universitarias en pares — en evaluación para implementación en la UTSJR | Node.js, EJS, MySQL |
+| [ChatBot-LobiFind](https://github.com/rakerito/ChatBot-LobiFind) | Asistente virtual con IA para LobiFind | Python, Flask, OpenAI |
+
+---
+
+## 📫 Contacto
+
+[![Gmail](https://img.shields.io/badge/raquel.pastor.gaytan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raquel.pastor.gaytan@gmail.com)
