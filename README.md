@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rakerito/rakerito/main/Banner%20GitHub.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rakerito/rakerito/main/Banner%20para%20GitHub.png" width="100%"/>
 </div>
 
 <br>
