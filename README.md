@@ -56,3 +56,7 @@ experiencia de usuario, documentadas y pensadas para escalar.
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rakerito&hide_border=true&background=E8E8F0&ring=9B9EC4&fire=9B9EC4&currStreakLabel=5C5F7A&sideLabels=5C5F7A&dates=5C5F7A&currStreakNum=5C5F7A&sideNums=5C5F7A" height="150"/>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakerito&color=9B9EC4&style=flat-square&label=visitas"/>
+</div>
