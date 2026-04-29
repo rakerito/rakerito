@@ -10,6 +10,7 @@
 Ingeniería en TI · UTSJR · San Juan del Río, Querétaro
 
 [![Gmail](https://img.shields.io/badge/Gmail-D8D8E8?style=flat-square&logo=gmail&logoColor=5C5F7A)](mailto:raquel.pastor.gaytan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D8D8E8?style=flat-square&logo=linkedin&logoColor=5C5F7A)](https://www.linkedin.com/in/raquel-pastor-3608a2406/)
 [![CV](https://img.shields.io/badge/Ver%20CV-D8D8E8?style=flat-square&logo=googledrive&logoColor=5C5F7A)](https://drive.google.com/drive/folders/1FqSufA9UmGiojX36PPhU0AZDdOp99HUG?usp=drive_link)
 [![Certificaciones](https://img.shields.io/badge/Certificaciones-D8D8E8?style=flat-square&logo=googledrive&logoColor=5C5F7A)](https://drive.google.com/drive/folders/1-rQIDGNkCCRXdMMRAUlj_Fy8rN2_fooK?usp=drive_link)
 
